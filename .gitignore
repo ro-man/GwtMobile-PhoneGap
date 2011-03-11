@@ -3,3 +3,4 @@ classes
 *~
 war/GwtMobilePhoneGapKitchenSink
 .gwt-tmp
+/target
