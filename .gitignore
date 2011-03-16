@@ -1,6 +1,6 @@
 lib
 classes
 *~
-war/GwtMobilePhoneGapKitchenSink
+war/KitchenSink
 .gwt-tmp
 /target
